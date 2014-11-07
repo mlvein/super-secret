@@ -3,7 +3,6 @@ hello-world
 
  This is where I log my self intiated projects, and add details on moving forward
 
----
 Update 1.11062014
 
 SUPER SECRET BANANA
@@ -14,7 +13,6 @@ SUPER SECRET BANANA
 - finalize a sketch for the site structure
 - Volume 2 is the website
 - need a digital version of volume 1
-- 
 
 100 Truths / 1 Lie
 - currently at a standstill
@@ -22,5 +20,3 @@ SUPER SECRET BANANA
 - pull "I am afraid of Love" and add it as the first content on page
 - need to redesign logo
 - needs refinement for visual language and identity system
-- 
----
