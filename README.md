@@ -1,22 +1,22 @@
-hello-world
-===========
-
- This is where I log my self intiated projects, and add details on moving forward
-
-Update 1.11062014
-
 SUPER SECRET BANANA
-- scaled animation loop to larger
-- no final navigation / wireframe yet
-- infinite scrolling idea final?
-- separate works into volumes
-- finalize a sketch for the site structure
-- Volume 2 is the website
-- need a digital version of volume 1
+----
 
-100 Truths / 1 Lie
-- currently at a standstill
-- website is live but does not have content
-- pull "I am afraid of Love" and add it as the first content on page
-- need to redesign logo
-- needs refinement for visual language and identity system
+What is Super Secret Banana?
+ - it is a project I initiated during my senior year
+ - it started as a publication about some of my favorite video games and their walkthroughs
+ - it is my attempt at pondering how it has affected my life choices]
+ - i do not intend to continue making it this way
+ - i want it to be something i enjoy doing
+ - it can be anything, really
+ - right now I want it to be fun and relatable
+ - it is my way of sharing how i see the world
+ - i want it to be useful in some way
+ - i want it to act as a portal to provide something that can make the world a better place
+ - right now, (02/05/2015) it is not like that at all..
+ - it will host most of my design experiments
+ - maybe, a blog...
+ - it might help me become more disciplined and responsible
+ - i hope it does make me more disciplined and responsible
+ - i want it to archive my design progress
+ - i want to be better at everything
+ - yeahh
