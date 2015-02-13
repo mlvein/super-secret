@@ -14,13 +14,4 @@ What is Super Secret Banana?
  - i want it to act as a portal to provide something that can make the world a better place
  - right now, (02/05/2015) it is not like that at all..
  - it will host most of my design experiments
- - maybe, a blog...
- - it might help me become more disciplined and responsible
- - i hope it does make me more disciplined and responsible
- - i want it to archive my design progress
- - i want to be better at everything
- - yeahh
 
-Why??!
-
- - i still need to find the reason why
