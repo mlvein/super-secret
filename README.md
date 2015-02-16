@@ -1,5 +1,12 @@
-SUPER SECRET BANANA
-----
+supersecretbanana
+//
+
+Update 21615
+- php imports
+- readme update 
+- some rewrites  
+
+//
 
 What is Super Secret Banana?
  - it is a project I initiated during my senior year
@@ -14,4 +21,9 @@ What is Super Secret Banana?
  - i want it to act as a portal to provide something that can make the world a better place
  - right now, (02/05/2015) it is not like that at all..
  - it will host most of my design experiments
+ - 
+ 
+instagram + twitter / @melvinismad
+
+
 
