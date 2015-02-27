@@ -1,6 +1,9 @@
 supersecretbanana
 //
 
+22615
+-wp-includes folder
+
 22215
 - akismet import
 
