@@ -1,10 +1,20 @@
 supersecretbanana
 //
 
-Update 21615
+22615
+-wp-includes folder
+
+22215
+- akismet import
+
+21815
+- complete php imports
+
+21615
 - php imports
 - readme update 
 - some rewrites  
+- updated folders
 
 //
 
